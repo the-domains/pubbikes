@@ -1,0 +1,14 @@
+layout_spectrum: 0.8580425
+color:
+  saturation: 0.6370341
+  lightness: 0.7007169
+  brandStrength: 0.5967742
+  brandColors:
+    - '#FE0201'
+    - '#040308'
+    - '#F4E9C9'
+    - '#52463A'
+    - '#F9AF4A'
+  rhythmicContrast: 0.2956989
+typography_spectrum: 0.6335409
+name: Pubbikes
