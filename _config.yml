@@ -1,14 +1,26 @@
-layout_spectrum: 0.8580425
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7293907
 color:
   saturation: 0.6370341
+  brandStrength: 0.7598566
   lightness: 0.7007169
-  brandStrength: 0.5967742
   brandColors:
-    - '#FE0201'
-    - '#040308'
-    - '#F4E9C9'
-    - '#52463A'
-    - '#F9AF4A'
+    - '#1E1E20'
+    - '#ECEFD0'
+    - '#EDF408'
+    - '#CFAF64'
+    - '#923300'
   rhythmicContrast: 0.2956989
-typography_spectrum: 0.6335409
+layout_spectrum: 0.8580425
 name: Pubbikes
