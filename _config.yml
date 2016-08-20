@@ -1,3 +1,17 @@
+typography_spectrum: 0.7293907
+color:
+  saturation: 0.6370341
+  brandStrength: 0.7598566
+  lightness: 0.7007169
+  brandColors:
+    - '#1E1E20'
+    - '#ECEFD0'
+    - '#EDF408'
+    - '#CFAF64'
+    - '#923300'
+  rhythmicContrast: 0.2956989
+layout_spectrum: 0.2204301
+name: Pubbikes
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6370341
-  brandStrength: 0.7598566
-  lightness: 0.7007169
-  brandColors:
-    - '#1E1E20'
-    - '#ECEFD0'
-    - '#EDF408'
-    - '#CFAF64'
-    - '#923300'
-  rhythmicContrast: 0.2956989
-typography_spectrum: 0.7293907
-layout_spectrum: 0.2204301
-name: Pubbikes
+description: build and Enjoy
